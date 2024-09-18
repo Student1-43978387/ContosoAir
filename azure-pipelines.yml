@@ -1,4 +1,4 @@
-pool: GitHubIntegrationPool
+pool: Default
 trigger:
   - master
 steps:
